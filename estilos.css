@@ -1,0 +1,70 @@
+body{
+background: 
+url("fondo.png")
+no-repeat top right,
+url(https://brainwavelove.com/wp-content/uploads/2012/09/alien-ink-2560x1600-abstract-background.jpg)
+}
+
+h1 {
+font-size: 45;
+font-family: Times New Roman;
+color: white;
+text-shadow: 20px 10px 5px 	#7FFFD4;
+}
+
+table{
+font-family: Times New roman;
+font-style: italic;
+font-size: 20;
+border-color: #ADD8E6;
+}
+
+#par, #anchoedad{
+background-color:  #B0E0E6;
+}
+
+#impar, #anchofecha{
+background-color:	#F5F5F5;
+}
+
+th{
+width: 3%;
+}
+
+#ancho{
+width: 45%;
+}
+
+#anchofecha {
+width: 50%;
+}
+
+#anchoedad {
+width: 80%;
+}
+
+input{
+font-size: 20;
+font-family: Times New Roman;
+font-style: italic;
+border: 0;
+outline: none;
+}
+
+INPUT[type=number]::-webkit-inner-spin-button,
+INPUT[type=number]::-webkit-outer-spin-button{
+-webkit-appearance: none;
+margin: 0;
+}
+
+INPUT[type=submit]{
+padding: 10px;
+border: 2px solid;
+font-size: 20;
+font-family: Times New Roman;
+font-style: italic;
+border-radius: 6px;
+cursor:pointer;
+}
+
+
