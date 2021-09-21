@@ -238,7 +238,7 @@ $fecha = date('Y-m-d'/*,strtotime('-1 day')*/);
 	<INPUT TYPE = "SUBMIT" NAME = "envio" VALUE = "Enviar historia cl&iacute;nica">
 	</FORM>	
 	</CENTER>
-	<FORM ACTION = "http://192.168.1.79/aplicacion_web/registro.php">
+	<FORM ACTION = "http://192.168.1.79:8085/aplicacion_web/registro.php">
 	<DIV STYLE  = "text-align: right;">
 	<INPUT TYPE = "SUBMIT" VALUE = "Registrate">
 	</DIV>
