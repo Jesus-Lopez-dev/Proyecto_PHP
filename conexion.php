@@ -11,7 +11,7 @@
 	<BODY>
 	<?php
 	$usuario = "root";
-	$servidor = "localhost";
+	$servidor = "192.168.1.79";
 	$basededatos = "proyectophp";
 
 	$conexion = mysqli_connect($servidor, $usuario, "", $basededatos);
